@@ -1,2 +1,2 @@
-# spotify-ad-block
+# Spotify-ad-block
 Spotify去广告Clash规则
