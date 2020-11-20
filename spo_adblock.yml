@@ -1,5 +1,4 @@
-  - DOMAIN-SUFFIX,r7---,REJECT
-  - DOMAIN,audio4-fa.scdn.co,REJECT  
+  - DOMAIN-SUFFIX,r7---,REJECT 
   - DOMAIN,bloodhound.spotify.com,REJECT
   - DOMAIN-SUFFIX,audio4-fa,REJECT
   - DOMAIN-SUFFIX,r14---,REJECT
